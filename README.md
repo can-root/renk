@@ -1,6 +1,6 @@
 Kullanım
 
-1 Github sayfasından indirip renk.py dosyasını proje dizinine taşıyın.
+1 Github sayfasından indirip, renk.py dosyasını proje dizinine taşıyın.
 
 ![resim](https://github.com/user-attachments/assets/8766627b-7132-43cd-9c17-d5b3bc9270cc)
 
